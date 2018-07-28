@@ -1,7 +1,7 @@
 title: DevOpsDay2018
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/demo-dev-ops-day" # the subpath of your site, e.g. /blog
 url: "https://github.com/reaton333/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
