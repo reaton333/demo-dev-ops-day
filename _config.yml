@@ -9,6 +9,9 @@ google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include: ['_2016_pages', '_2017_pages']
 
+permalink:           pretty
+relative_permalinks: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
