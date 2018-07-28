@@ -5,10 +5,6 @@ url: http://reaton333.github.io/demo-dev-ops-day # the base hostname & protocol 
 baseurl: /demo-dev-ops-day/ # the subpath of your site, e.g. /blog
 
 
-sass:
-  sass_dir:          _sass/2016_sass
-  style:            :compressed
-
 logo: "../css/2016_style/img/icon-large.png"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
