@@ -1,19 +1,15 @@
 title: DevOpsDay2018
 description: > # this means to ignore newlines until "baseurl:"
   Your description
+url: http://reaton333.github.io/demo-dev-ops-day # the base hostname & protocol for your site
 baseurl: /demo-dev-ops-day/ # the subpath of your site, e.g. /blog
-url: https://reaton333.github.io/demo-dev-ops-day # the base hostname & protocol for your site
-# Build settings
-markdown: kramdown
 
-facebook:
-  app_id:
+
+sass:
+  sass_dir:          _sass/2016_sass
+  style:            :compressed
 
 logo: "../css/2016_style/img/icon-large.png"
-
-social:
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -22,13 +18,6 @@ include: ['_2016_pages', '_2017_pages']
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: facebook
-    url: https://www.facebook.com
-  - title: twitter
-    url: https://twitter.com
 
 # Build settings
 markdown: kramdown
