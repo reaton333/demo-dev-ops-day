@@ -42,8 +42,8 @@
 
 - title: Rick Jones
   name: rickJ1
-  subtitle: "Defensive Programmers:  Automated Testing at the Developer's Level"
-  topic: "Defensive Programmers:  Automated Testing at the Developer's Level"
+  subtitle: "Defensive Programmers: Automated Testing at the Developer's Level"
+  topic: "Defensive Programmers: Automated Testing at the Developer's Level"
   description: "Automated testing helps developers write cleaner and more maintainable code… but how?  This session will provide an overview and statistics on how you can improve your craft by automating your tests."
 
 - title: Rick Jones
@@ -60,7 +60,7 @@
 
 - title: Ben Link
   name: benJamin1
-  subtitle: 'The Theory of Constraints: Why Doing Less Gets More Done'
+  subtitle: 'The Theory of Constraints'
   topic: 'The Theory of Constraints: Why Doing Less Gets More Done'
   description: "Did you know it's less efficient to run people at full effiency?  Based on research that led to the 1984 book The Goal, the Theory of Constraints is an alternative way to look at how work gets scheduled."
 
@@ -84,7 +84,7 @@
 
 - title: Shyam Balachandran
   name: shyamB 
-  subtitle: 'Jfrog Artifactory:  Managing Packages Across the Enterprise'
+  subtitle: 'Jfrog Artifactory'
   topic: 'Jfrog Artifactory:  Managing Packages Across the Enterprise'
   description: "We don't write all the code in our applications.  We depend on libraries provided by other parties… both internal teams and from external sources.  Managing these libraries, and tracking their use in the organization, can be daunting.  Jfrog Artifactory is a tool we're introducing which will take many of the headaches out of dependency management."
 
@@ -96,6 +96,6 @@
 
 - title: William Gillaspy
   name: willG
-  subtitle: 'Dynamic Pipelines with Docker: Machines Making Machines'
+  subtitle: 'Dynamic Pipelines with Docker'
   topic: 'Dynamic Pipelines with Docker: Machines Making Machines'
   description: "You might have signed up for one of the other containerization sessions already… if you're someone who learns better by example, you should check this out.  In this session, you'll see how a dynamically-sized environment was constructed to give developers on-demand build systems."
