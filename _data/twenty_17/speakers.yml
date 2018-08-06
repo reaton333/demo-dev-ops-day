@@ -1,26 +1,101 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Jeff Whitesides
+  name: jeffW
+  topic: Keynote
+  subtitle: Keynote
+  description: Where is BlueCross I/S going?  DevOps is one of those buzz-words that can morph to fit people's understandings; what is the vision for I/S?
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Richard Harvey
+  name: richardH
+  subtitle: Kubernetes and OpenShift
+  topic: Kubernetes and OpenShift
+  description: Containers are the new hotness, but the true power of this concept comes when we automate the management of our container environment.  In this session, you'll get a peek at tools that do just that.
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Dan Ferree
+  name: danFree
+  subtitle: Designed to Fail
+  topic: Designed to Fail
+  description: "We have a natural tendency to make things with the expectation that they'll work.  But this is unrealistic!  In this session, we'll consider an alternative approach - designing things with the expectation that they'll fail, and ensuring that we handle it correctly."
+
+- title: Sally Tracy
+  name: sallyT
+  subtitle: 'Splunk: Taking Back Your Data'
+  topic: 'Splunk: Taking Back Your Data'
+  description: "In the future posited by DevOps, machine data comes from EVERYWHERE.  Splunk is a tool that can help us manage that deluge."
+
+- title: Jon Sturdevant
+  name: jonS1
+  subtitle: 'Containerization: Combining Application and Infrastructure'
+  topic: 'Containerization: Combining Application and Infrastructure'
+  description: "Cloud Computing architecture is rapidly catching fire across the industry.  Developers love the promise of on-demand infrastructure, but it will require a shift in thinking - to a world where we treat infrastructure as code."
+
+- title: Jon Sturdevant
+  name: jonS2
+  subtitle: 'BlackDuck: Removing the Fear of Open Source in the Enterprise'
+  topic: 'BlackDuck: Removing the Fear of Open Source in the Enterprise'
+  description: "Open Source Software is an incredibly large part of the IT industry, but it hasn't been part of our lexicon here at BlueCross.  In this session, you'll learn how to begin navigating the open-source world and come to an understanding of how we might manage open-source code use in Production."
+
+- title: Michael Montouri
+  name: michaelM
+  subtitle: 'Do you Git it'
+  topic: 'Do you Git it'
+  description: "Git is a fantastic way to handle source code management.  In this session, you'll learn some basic techniques and gain an understanding of what makes it so powerful."
+
+- title: Rick Jones
+  name: rickJ1
+  subtitle: "Defensive Programmers:  Automated Testing at the Developer's Level"
+  topic: "Defensive Programmers:  Automated Testing at the Developer's Level"
+  description: "Automated testing helps developers write cleaner and more maintainable code… but how?  This session will provide an overview and statistics on how you can improve your craft by automating your tests."
+
+- title: Rick Jones
+  name: rickJ2
+  subtitle: "Delivery Pipelines: From Commit to Production in an Hour or it's Free"
+  topic: "Delivery Pipelines: From Commit to Production in an Hour or it's Free"
+  description: "You've likely heard rumors of development pipelines coming to BlueCross.  This session reviews the history of our journey so far and highlights the benefits we expect to receive from this change."
+
+- title: Williams Sims
+  name: willS
+  subtitle: 'The Phoenix Project in 15 Minutes'
+  topic: 'The Phoenix Project in 15 Minutes'
+  description: "The Phoenix Project’s subtitle is \"A Novel About IT, DevOps, and Helping Your Business Win.\" The Phoenix Project is a best-selling novel about information technology (IT) written collaboratively by Gene Kim, George Spafford and Kevin Behr. The book uses a narrative approach to illustrate strategies for solving business problems that are complicated by interdependencies. The Phoenix Project can also be considered a manual for helping IT managers change the way employees think about the way they plan, schedule and complete work."
+
+- title: Ben Link
+  name: benJamin1
+  subtitle: 'The Theory of Constraints: Why Doing Less Gets More Done'
+  topic: 'The Theory of Constraints: Why Doing Less Gets More Done'
+  description: "Did you know it's less efficient to run people at full effiency?  Based on research that led to the 1984 book The Goal, the Theory of Constraints is an alternative way to look at how work gets scheduled."
+
+- title: Ben Link
+  name: benJamin2
+  subtitle: 'The Three Ways of IT'
+  topic: 'The Three Ways of IT'
+  description: "In order for an IT department to function optimally, three principles must be espoused throughout the organization: flow, feedback, and a culture of experimentation."
+
+- title: Ricardo Dominguez
+  name: ricardoD
+  subtitle: 'Test Automation: RSET Perspective'
+  topic: 'Test Automation: RSET Perspective'
+  description: "Keep calm and automate."
+
+- title: Adam Holmes
+  name: adamH
+  subtitle: 'Comprehensive Monitoring'
+  topic: 'Comprehensive Monitoring'
+  description: "One of the key wins that a team gets from DevOps is fast feedback.  Extensive testing will help us catch a lot of things, but inevitably *some* problems will escape into Production.  How will we know?  This session is a look at how developers can prepare themselves to be able to quickly diagnose production issues through the use of powerful monitoring tools."
+
+- title: Shyam Balachandran
+  name: shyamB 
+  subtitle: 'Jfrog Artifactory:  Managing Packages Across the Enterprise'
+  topic: 'Jfrog Artifactory:  Managing Packages Across the Enterprise'
+  description: "We don't write all the code in our applications.  We depend on libraries provided by other parties… both internal teams and from external sources.  Managing these libraries, and tracking their use in the organization, can be daunting.  Jfrog Artifactory is a tool we're introducing which will take many of the headaches out of dependency management."
+
+- title: Matt Salley
+  name: mattS
+  subtitle: 'The Four Types of Work'
+  topic: 'The Four Types of Work'
+  description: "Did you know that there are only 4 types of work you can be doing?  Did you know that one of them is extremely dangerous to the organization's success?  Learn here about the types of work and the ramifications of each."
+
+- title: William Gillaspy
+  name: willG
+  subtitle: 'Dynamic Pipelines with Docker: Machines Making Machines'
+  topic: 'Dynamic Pipelines with Docker: Machines Making Machines'
+  description: "You might have signed up for one of the other containerization sessions already… if you're someone who learns better by example, you should check this out.  In this session, you'll see how a dynamically-sized environment was constructed to give developers on-demand build systems."
